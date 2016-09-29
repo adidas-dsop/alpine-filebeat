@@ -1,4 +1,4 @@
-ROM dsop/alpine-base
+FROM dsop/alpine-base
 
 ENV GLIBC 2.23-r3
 ENV FILEBEAT_VERSION 1.3.1-x86_64
